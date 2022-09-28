@@ -48,17 +48,17 @@ Cursos Alura:
 
 Además, utilicé las herramientas [Trello](https://trello.com/b/EmUFmjCv/decoder-de-texto-alura-challenges-oracle-one), [Figma](https://www.figma. com /file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=0%3A1) y Discord. Fue increíble sentir que era parte de un equipo de desarrollo.👩🏻‍💻
 
-Obrigado    <img width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png">
+Gracias    <img width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png">
 
  <div style="display:flex;" align="center">
-   <h2>Badge referente ao termino do Challenge</h2>
+   <h2>Insignia</h2>
  </div>
 
    <div style="display:flex;" align="center">
   <img src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/badge1.png?raw=true" width="400"/>
 </div>
 
-**#challengeonedecodificador2**
+**#challengeonedecodificador3**
 
 ## Resultado del proyeto:
 
