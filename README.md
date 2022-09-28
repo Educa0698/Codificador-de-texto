@@ -1,4 +1,4 @@
-# Alura + Oracle ONE 👩🏻‍💻  <img align="right" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-one-logo.png"><br><br> [<img src="https://avatars.githubusercontent.com/u/95485809?v=4" width="35" style="border-radius:50%">]("linkedin.com/in/andressa-costa-286173225/") [![linkedin: AndressaDaCosta](https://img.shields.io/badge/-AndressaDaCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AndressaDaCosta/)](linkedin.com/in/andressa-costa-286173225/)   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
+# Alura + Oracle ONE 👩🏻‍💻  <img align="right" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-one-logo.png"><br><br> [<img src="https://avatars.githubusercontent.com/u/95485809?v=4" width="35" style="border-radius:50%">]("linkedin.com/in/edwincaicedodelgado980930/") [![linkedin: EdwinCaicedo](https://img.shields.io/badge/-AndressaDaCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwincaicedodelgado980930)](https://www.linkedin.com/in/edwincaicedodelgado980930) (https://github.com/Educa0698)
 
 # Codificador e Decodificador de Texto
 
@@ -60,7 +60,7 @@ Obrigado    <img width="180px" src="https://cursos.alura.com.br/assets/images/ce
 
 **#challengeonedecodificador2**
 
-## Resultado do projeto:
+## Resultado del proyeto:
 
-[📁 Repositório](https://github.com/AndressaDaCosta/codificador_decodificador_texto) |  [🌎 Página](https://andressadacosta.github.io/codificador_decodificador_texto/)
+[📁 Repositório](https://github.com/Educa0698/Codificador-de-texto) |  [🌎 Página](https://github.com/Educa0698/Codificador-de-texto)
 
